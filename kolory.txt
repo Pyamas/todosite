@@ -1,0 +1,3 @@
+#DFDAD6 body color
+#E33E33 container color 
+#E33E33 business name color - use this colors only
